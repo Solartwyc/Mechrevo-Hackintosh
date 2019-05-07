@@ -2,8 +2,9 @@
 
 #2019.05.07
 
-  -->Add support for Z2 G
-
+  -->Add support for Z2 G / Z2 R/ X9ti R etc.(new 9750H version)
+  -->fix RTX Version
+  -->fix x6tis 7700hq Version
 #
 This will give you the necessary files you need in the progress of install mac os on you Mechrevo laptop.
 
