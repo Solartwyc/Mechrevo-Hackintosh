@@ -1,4 +1,10 @@
-# Mechrevo-Hackintosh
+﻿# Mechrevo-Hackintosh
+
+#2019.05.07
+
+  -->Add support for Z2 G
+
+#
 This will give you the necessary files you need in the progress of install mac os on you Mechrevo laptop.
 
 [What you can get]
