@@ -2,9 +2,13 @@
 
 #2019.05.16
 Next update preview
+
   -->add support for two models of x6ti-m2
+
   -->fix Stuck in the boot interface
+
   -->Some model bug optimization
+
   -->Next update date 2019.05.28
 
 Tips: All of your suggestions I have seen, please wait the fix. Thanks!
