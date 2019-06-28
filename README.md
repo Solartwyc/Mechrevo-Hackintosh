@@ -1,4 +1,7 @@
 ﻿# Mechrevo-Hackintosh
+#2019.06.28
+Github is not convenient to update，please www.cmbs-soft.com to get the update. Thanks
+
 
 #2019.05.16
 Next update preview
